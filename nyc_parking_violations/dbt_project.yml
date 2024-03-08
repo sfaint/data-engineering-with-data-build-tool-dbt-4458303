@@ -50,3 +50,5 @@ models:
       +materialized: table
 tests:
   +store_failures: true
+
+
